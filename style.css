@@ -1,0 +1,91 @@
+#indexbody {
+    background: linear-gradient(#d99b82, #43475f);
+}
+
+#knockbody {
+  background: linear-gradient(#898d90, #383c3d);
+}
+
+#bedbody {
+  background: linear-gradient(#999d9e, #353736);
+}
+
+#buriedbody {
+  background: linear-gradient(#645655, #3a2c29);
+}
+
+.wrapper {
+    width: 630px;
+    margin: auto;
+    border: 2px solid;
+    border-color: rgb(196, 183, 141);
+}
+
+.links-wrapper {
+    padding-top: 50px;
+    width: 630px margin: auto;
+    font-size: 30px;
+}
+
+header, h1, h2, footer, #text1, .links-wrapper {
+    text-align: center;
+    font-family: helvetica;
+}
+
+header {
+    color: #43475f;
+    font-size: 70px;
+    padding-top: 60px;
+    font-weight: bolder;
+}
+
+h1 {
+  padding-top: 100px;
+  padding-bottom: 50px;
+  font-size: 30px;
+  font-weight; lighter;
+  color: #ffffff;
+}
+
+h2 {
+  padding-top: 50px;
+  font-weight: bolder;
+  font-size: 40px;
+  color: salmon;
+}
+
+#text1 {
+    font-size: 19px;
+    color: rgb(196, 183, 141);
+    font-weight: bolder;
+    padding-bottom: 60px;
+}
+
+footer {
+    color: rgb(171, 157, 112);
+    padding-top: 50px;
+    font-size: 10px;
+}
+
+a:link {
+    color: rgb(196, 183, 141)
+}
+
+a:visited {
+    color: salmon
+}
+
+a:hover {
+    color: rgb(171, 157, 112)
+}
+
+a:active {
+    color: rgb(44, 75, 97)
+}
+
+
+/* Don't forget,
+this is how you make,
+invisible comments
+in CSS
+*/
